@@ -30,8 +30,8 @@ Here are a few things I've picked up along my learning journey.
 <p>
 Check out what I'm currently involved in.
 
-- <a href="https://jonathan-adly.github.io/oneSTEP/> Small goal tracking app </a> | _I needed a way to see my progrss while learning new things- Eventually hopting to turn it into a functioning app_.
-- <a href="https://jonathan-adly.github.io/Portfolio/> personal page </a> | _Personal page/Portfolio_
+- <a href="https://jonathan-adly.github.io/oneSTEP/"> Small goal tracking app </a> | I needed a way to see my progress while learning new things- Eventually hoping to turn it into a functioning app.
+- <a href="https://jonathan-adly.github.io/Portfolio/"> personal page </a> | Personal page/Portfolio
 </p>
 
 ### 🌱What I'm Learning
