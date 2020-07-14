@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Jonathan. Just a Pharmacist learning how to code. 
+<h1 align= 'center'> Hi there 👋 I'm Jonathan. Just a Pharmacist learning new things. </h1>
 
 <p align='center'>
 <a href="mailto:gadly0123@gmail.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
@@ -11,7 +11,7 @@
 
 ### 🙋🏽‍♂️About Me
 
-<p> I wear many hats depending on what is required of me but, I am first and foremost, a passionate learner. Pharmacist, Marketer, Developer, Content Creater. Jack of all trades, master of a few! Currently I am rounding up my full stack developer skills and learning formal computer science skills. Super interested in innovative health care technologies </p>
+<p> I wear many hats depending on what is required of me but, I am first a lifelong learner. Pharmacist, Marketer, Developer, Content Creater. Jack of all trades, master of a few! Currently I am rounding up my full stack developer skills and learning formal computer science skills. Super interested in innovative health care technologies </p>
 
 ### 👨🏽‍💻Tech Stack
 
@@ -39,7 +39,7 @@ Check out what I'm currently involved in.
 Here are some things on my todo list.
 
 - <a href= "https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course/"> CS50W  </a>- To get more comfortable w/ backend techs.
-- <a href= "https://missing.csail.mit.edu/"> _the missing semster of CS education_ </a> 
+- <a href= "https://missing.csail.mit.edu/"> the missing semster of CS education </a> - To get more comofortable w/ command line issues and shortcuts
 
 ---
 
