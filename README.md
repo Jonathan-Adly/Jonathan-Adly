@@ -11,7 +11,7 @@
 
 ### 🙋🏽‍♂️About Me
 
-<p> I wear many hats depending on what is required of me but, I am first a lifelong learner. Pharmacist, Marketer, Developer, Content Creater. Jack of all trades, master of a few! Currently I am rounding up my full stack developer skills and learning formal computer science skills. Super interested in innovative health care technologies </p>
+<p> I wear many hats depending on what is required of me but, I am first a lifelong learner. Pharmacist, Marketer, Developer, Content Creater. Jack of all trades, master of a few! Currently I am rounding up my full stack developer stack and learning formal computer science skills. Super interested in innovative health care technologies and will eventually will learn how to use ML/AI to make the world healthier. </p>
 
 ### 👨🏽‍💻Tech Stack
 
