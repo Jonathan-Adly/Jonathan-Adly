@@ -1,4 +1,4 @@
-<h1 align= 'center'> Hi there 👋 I'm Jonathan. Just a Pharmacist learning new things. </h1>
+<h1 align= 'center'> Hi there 👋 I'm Jonathan. Just a pharmacist learning new things. </h1>
 
 <p align='center'>
 <a href="mailto:gadly0123@gmail.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
