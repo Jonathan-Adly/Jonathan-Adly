@@ -30,7 +30,7 @@ Here are a few things I've picked up along my learning journey.
 Check out what I'm currently involved in.
 
 - <a href="https://historyofthecopts.com/"> A Podcast Interactive Library webapp </a> | You can read a book, or listen to a Podcast. Why not do both? This app attempts to do that.
-- <a href="https://jonathanadly.com> personal page </a> | Currently upgrading.
+- <a href="https://jonathanadly.com> personal page> </a> | Currently upgrading.
 
 ### 🌱On the way:
 
