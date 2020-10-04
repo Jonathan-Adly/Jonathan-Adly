@@ -2,7 +2,6 @@
 
 <p align='center'>
 <a href="mailto:gadly0123@gmail.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jonathan-adly-a20768188/"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Jonathan_Adly_"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_twitter.png"></a>&nbsp;&nbsp;
 </p>
 
@@ -22,24 +21,23 @@ Here are a few things I've picked up along my learning journey.
 - HTML/CSS3 
 - A little bit of C
 - Python/Django 
-- Javascript/REACT 
+- Javascript/Vue.js 
 
 
-### 🚧Current Projects:
+### 🚧Finished Projects:
 
 <p>
 Check out what I'm currently involved in.
 
-- <a href="https://jonathan-adly.github.io/oneSTEP/"> Small goal tracking app </a> | I needed a way to see my progress while learning new things- Eventually hoping to turn it into a functioning app.
-- <a href="https://jonathan-adly.github.io/Portfolio/"> personal page </a> | Personal page/Portfolio
-</p>
+- <a href="https://historyofthecopts.com/"> A Podcast Interactive Library webapp </a> | You can read a book, or listen to a Podcast. Why not do both? This app attempts to do that.
+- <a href="https://jonathanadly.com> personal page </a> | Currently upgrading.
 
-### 🌱What I'm Learning
+### 🌱On the way:
 
 Here are some things on my todo list.
 
-- <a href= "https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course/"> CS50W  </a>- To get more comfortable w/ backend techs.
-- <a href= "https://missing.csail.mit.edu/"> the missing semster of CS education </a> - To get more comofortable w/ command line issues and shortcuts
+- <a href= "#"> Micro-Sass  </a>- Hopefully by Jan - 2021. 
+
 
 ---
 
