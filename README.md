@@ -10,7 +10,7 @@
 
 ### 🙋🏽‍♂️About Me
 
-<p> I wear many hats depending on what is required of me but, I am first a lifelong learner. Pharmacist, Marketer, Developer, Content Creater. Jack of all trades, master of a few! Currently I am rounding up my full stack developer stack and learning formal computer science skills. Super interested in innovative health care technologies and will eventually will learn how to use ML/AI to make the world healthier. </p>
+<p> I wear many hats depending on what is required of me but, I am first a lifelong learner. Developer, Pharmacist, Marketer, Podcaster. Jack of all trades, master of a few! Currently I am building a SaaS while learning about algorithmic e-commerce. Super interested in innovative health care technologies and will eventually will learn how to use ML/AI to make the world healthier. </p>
 
 ### 👨🏽‍💻Tech Stack
 
@@ -18,7 +18,7 @@
 Here are a few things I've picked up along my learning journey.
 </p>
 
-- HTML/CSS3 
+- HTML/CSS
 - A little bit of C
 - Python/Django 
 - Javascript/Vue.js 
@@ -36,7 +36,7 @@ Check out what I'm currently involved in.
 
 Here are some things on my todo list.
 
-- <a href= "#"> Micro-Sass  </a>- Hopefully by Jan - 2021. 
+- <a href= "#"> Micro-SaaS  </a>- Hopefully by Jan - 2021. 
 
 
 ---
