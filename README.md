@@ -10,7 +10,7 @@
 
 ### 🙋🏽‍♂️About Me
 
-<p> I wear many hats depending on what is required of me but, I am first a lifelong learner. Developer, Pharmacist, Marketer, Podcaster. Jack of all trades, master of a few! Currently I am building a SaaS while learning about algorithmic e-commerce. Super interested in innovative health care technologies and will eventually will learn how to use ML/AI to make the world healthier. </p>
+<p> I wear many hats depending on what is required of me but, I am first a lifelong learner. Developer, Pharmacist, Marketer, Podcaster. Jack of all trades, master of a few! Currently I am learning the basics of AI and ML. Super interested in innovative health care technologies and will eventually will learn how to use ML/AI to make the world healthier. </p>
 
 ### 👨🏽‍💻Tech Stack
 
@@ -30,13 +30,10 @@ Here are a few things I've picked up along my learning journey.
 Check out what I'm currently involved in.
 
 - <a href="https://historyofthecopts.com/"> A Podcast Interactive Library webapp </a> | You can read a book, or listen to a Podcast. Why not do both? This app attempts to do that.
-- <a href="https://jonathanadly.com"> personal page </a> | Currently upgrading.
+- <a href="https://jonathanadly.com"> personal page </a> |
 
-### 🌱On the way:
+- <a href= "https://joyful.gifts"> Joyful.gifts - an automated gifting platform </a>
 
-Here are some things on my todo list.
-
-- <a href= "#"> Micro-SaaS  </a>- Hopefully by Jan - 2021. 
 
 
 ---
