@@ -21,7 +21,7 @@ Here are a few things I've picked up along my learning journey.
 - HTML/CSS
 - A little bit of C
 - Python/Django 
-- Javascript/Vue.js 
+- Javascript 
 
 
 ### 🚧Finished Projects:
