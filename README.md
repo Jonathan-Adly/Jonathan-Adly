@@ -9,30 +9,18 @@
 ---
 
 ### 🙋🏽‍♂️About Me
+I’m a software developer and a pharmacist. You can contact me on Twitter .
 
-<p> I wear many hats depending on what is required of me but, I am first a lifelong learner. Developer, Pharmacist, Marketer, Podcaster. Jack of all trades, master of a few! Currently I am learning the basics of AI and ML. Super interested in innovative health care technologies and will eventually will learn how to use ML/AI to make the world healthier. </p>
+I am interested about software development with Django/HTMX and occasionaly write about healthcare & tech in the US.
 
 ### 👨🏽‍💻Tech Stack
 
-<p>
-Here are a few things I've picked up along my learning journey.
-</p>
-
-- HTML/CSS
-- A little bit of C
-- Python/Django 
-- Javascript 
+I am a Django/HTMX developer!   
 
 
 ### 🚧Finished Projects:
 
-<p>
-Check out what I'm currently involved in.
-
-- <a href="https://historyofthecopts.com/"> A Podcast Interactive Library webapp </a> | You can read a book, or listen to a Podcast. Why not do both? This app attempts to do that.
-- <a href="https://jonathanadly.com"> personal page </a> |
-
-- <a href= "https://joyful.gifts"> Joyful.gifts - an automated gifting platform </a>
+Check out all the projects I did at <a href="https://jonathanadly.com"> JonathanAdly.com </a>. 
 
 
 
