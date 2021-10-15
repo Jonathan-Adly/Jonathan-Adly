@@ -5,9 +5,6 @@
 <a href="https://twitter.com/Jonathan_Adly_"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_twitter.png"></a>&nbsp;&nbsp;
 </p>
 
-<img src= "https://teehunter.com/wp-content/uploads/2013/11/breaking-bad-t-shirts-banner.jpg">
----
-
 ### 🙋🏽‍♂️About Me
 I’m a software developer and a pharmacist. You can contact me on Twitter .
 
