@@ -17,10 +17,5 @@ I am a Django/HTMX developer!
 
 ### 🚧Open to:
 
-I am open to freelance or contracting opporunties. You can see completed projects at <a href="https://jonathanadly.com"> JonathanAdly.com </a>. 
+I am open to the right opporunties. You can see completed projects at <a href="https://jonathanadly.com"> JonathanAdly.com </a>. 
 
-
-
----
-
-`Reach out to me on any of the social links above to talk about possible opportunities, mentorship, collaborations and everything in between!`
