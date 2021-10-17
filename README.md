@@ -6,18 +6,18 @@
 </p>
 
 ### 🙋🏽‍♂️About Me
-I’m a software developer and a pharmacist. You can contact me on Twitter .
+I’m a software developer and a pharmacist. You can contact me on <a href="https://twitter.com/Jonathan_Adly_"> Twitter</a>.
 
-I am interested about software development with Django/HTMX and occasionaly write about healthcare & tech in the US.
+I work with mainly Django/HTMX and occasionaly write about healthcare & tech in the US.
 
 ### 👨🏽‍💻Tech Stack
 
-I am a Django/HTMX developer!   
+I am a Django/HTMX developer!    
 
 
-### 🚧Finished Projects:
+### 🚧Open to:
 
-Check out all the projects I did at <a href="https://jonathanadly.com"> JonathanAdly.com </a>. 
+I am open to freelance or contracting opporunties. You can see completed projects at <a href="https://jonathanadly.com"> JonathanAdly.com </a>. 
 
 
 
