@@ -1,6 +1,6 @@
 <h1 align= 'center'> Hi there 👋 I'm Jonathan. </h1>
 
-<p align="center'> <img src= "https://jonathanadly.com/static/jonathan.jpeg"> </p>
+<p align="center'> <img height="100" src="https://jonathanadly.com/static/jonathan.jpeg"> </p>
 
 <p align='center'>
 <a href="mailto:gadly0123@gmail.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
