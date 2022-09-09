@@ -10,16 +10,26 @@
 
 
 ### 🙋🏽‍♂️About Me
-I’m a software developer and a pharmacist. You can contact me on <a href="https://twitter.com/Jonathan_Adly_"> Twitter</a>.
-
-I work with Django/HTMX and occasionaly write about healthcare & tech in the US. 
-
-### 👨🏽‍💻Tech Stack
-
-I am a Django/HTMX developer!    
+I’m a software developer and a pharmacist. You can contact me via email at gadly0123@gmail.com
 
 
-### 🚧Open to:
+### Current Role
 
-I am open to the right opportunities. You can see completed projects at <a href="https://jonathanadly.com"> JonathanAdly.com </a>. 
+Currently I am the 340B Coordinator for Christiana Care Health System. A role that oversees a $100+m/yr in drug acquisitions and other pharmacy supply chain materials. In that role, I have oversight over internal automation tools, manage technical and non-technical team, and ensure regulatory and legal compliance.  
 
+Experience:
+
+º Doctorate of Pharmacy. May 2012 
+º Post-Doctoral residency and research. July 2014
+º Clinical Pharmacist. July 2014 
+º Founded a non-profit. August 2014
+º Learned to Code. June 2015  
+º MBA. May 2020 
+º Co-founded a technology startup.  June 2020 
+º Running +$100m/yr drug acquisition program for a 2000+ bed healthcare system. April 2021
+
+Tech Stack:
+
+My current role involves complex data analysis with occasional building internal automation tools and full stack web applications using Python/Django + Javascript with 5+ years experience. I am comfortable running apps in production with AWS, Postgre, Docker, Celery, HTMX, and various API integrations.
+
+Thanks for dropping by and looking forward to connect!
