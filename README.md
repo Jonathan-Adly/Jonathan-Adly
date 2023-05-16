@@ -15,7 +15,7 @@ I’m a software developer and a pharmacist. You can contact me via email at gad
 
 ### Current Role
 
-Currently I am the 340B Coordinator for Christiana Care Health System. A role that oversees a $100+m/yr in drug acquisitions and other pharmacy supply chain materials. In that role, I have oversight over internal automation tools, manage technical and non-technical team, and ensure regulatory and legal compliance.  
+Currently I am founder of GalenAI. An AI-First Medical information company.
 
 Experience:
 
@@ -27,9 +27,7 @@ Experience:
 º MBA. May 2020 
 º Co-founded a technology startup.  June 2020 
 º Running +$100m/yr drug acquisition program for a 2000+ bed healthcare system. April 2021
+º Founded GalenAI, April 2023
 
-Tech Stack:
-
-My current role involves complex data analysis with occasional building internal automation tools and full stack web applications using Python/Django + Javascript with 5+ years experience. I am comfortable running apps in production with AWS, Postgre, Docker, Celery, HTMX, and various API integrations.
 
 Thanks for dropping by and looking forward to connect!
