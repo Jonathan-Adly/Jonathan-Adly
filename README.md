@@ -6,4 +6,4 @@
 
 
 ### 🙋🏽‍♂️About Me
-I’m a software developer and a pharmacist. Building GalenAI. You can contact me via email at gadly0123@gmail.com
+Head of AI @CaryRx. Software developer and a pharmacist. Building GalenAI. You can contact me via email at gadly0123@gmail.com
